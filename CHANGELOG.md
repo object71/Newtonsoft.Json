@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.1] - 2021-02-24
+### Added
+- Newtonsoft.Json 12.0.3 Meta information
+
+### Removed
+- Newtonsoft.Json 12.0.3 XML
+
 ## [1.0.0] - 2021-02-24
 ### Added
 - Newtonsoft.Json 12.0.3 DLL file for unity

@@ -1,6 +1,6 @@
 {
     "name": "com.thatonegamedev.newtonsoft",
-    "version": "1.2.3",
+    "version": "1.0.1",
     "displayName": "Custom Newtonsoft.Json",
     "description": "Custom Newtonsoft.Json Package",
    "keywords": [
