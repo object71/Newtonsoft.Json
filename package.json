@@ -1,0 +1,16 @@
+{
+    "name": "com.thatonegamedev.newtonsoft",
+    "version": "1.2.3",
+    "displayName": "Custom Newtonsoft.Json",
+    "description": "Custom Newtonsoft.Json Package",
+   "keywords": [
+      "json",
+      "newtonsoft",
+      "newtonsoft.json"
+    ],
+    "author": {
+      "name": "Hristo Stamenov",
+      "email": "hristo.konstantinov.stamenov@gmail.com",
+      "url": "https://www.thatonegamedev.com"
+    }
+  }
